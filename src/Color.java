@@ -5,7 +5,6 @@
  */
 public enum Color {
     Green,
-    Red,
     Blue,
     Black,
     White,

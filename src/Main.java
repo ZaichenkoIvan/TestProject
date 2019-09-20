@@ -5,6 +5,8 @@
  */
 public class Main {
 
+	//some changes 2
+	
     public static void main(String[] args){
 
         Rectangle rectangle = new Rectangle(1, 2, Color.Red, 3, 4);
