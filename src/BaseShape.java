@@ -4,6 +4,9 @@
  * Абстрактний клас BaseShape геометричних фігур
  */
 public abstract class BaseShape {
+	
+	//some change 
+	
     /**
      * X фігури
      */
